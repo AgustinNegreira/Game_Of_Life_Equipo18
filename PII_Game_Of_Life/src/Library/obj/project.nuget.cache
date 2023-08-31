@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "U/vs9mVy4UcwTQAN229WXMlFANSC7SWAIF8RgAnTdTcNvoaYW2otvcHhqmhbu6ixqQzP7+YxdHQll00hi59CeA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alfon\\OneDrive\\Escritorio\\P 2\\Game_Of_Life\\PII_Game_Of_Life\\src\\Library\\Library.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alfon\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\alfon\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\alfon\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
