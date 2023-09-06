@@ -12,10 +12,8 @@ namespace GameOfLife
     {
         static void Main(string[] args)
         {
-<<<<<<< Updated upstream
-         
-=======
-            string archivoTablero = @"C:\Users\bmora\OneDrive\Escritorio\C#\juego1\board.txt"; // Cambia esto por la ruta correcta
+
+            string archivoTablero = @""; // Cambiar esto por la ruta del archivo
 
             LectorArchivo lector = new LectorArchivo();
             Tablero tablero = lector.LeerArchivo(archivoTablero);
@@ -29,7 +27,7 @@ namespace GameOfLife
                 juego.AvanzarGeneracion(tablero);
                 System.Threading.Thread.Sleep(300); // Pausa de 300 milisegundos
             }
->>>>>>> Stashed changes
+
         }
 
     }
