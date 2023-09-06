@@ -2,9 +2,8 @@
 <<<<<<< Updated upstream
 using System.IO;
 using System.Text;
-=======
 using Library;
->>>>>>> Stashed changes
+
 
 namespace GameOfLife
 {
