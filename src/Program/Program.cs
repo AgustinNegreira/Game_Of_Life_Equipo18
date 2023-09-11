@@ -1,16 +1,16 @@
-﻿using System;
-<<<<<<< Updated upstream
+using System;
 using System.IO;
 using System.Text;
 using Library;
 
 
-namespace GameOfLife
-{
+namespace GameOfLife;
+
     class Program
     {
         static void Main(string[] args)
         {
+
 
             string archivoTablero = @""; // Cambiar esto por la ruta del archivo
 
@@ -27,7 +27,8 @@ namespace GameOfLife
                 System.Threading.Thread.Sleep(300); // Pausa de 300 milisegundos
             }
 
+
         }
 
     }
-}
+
